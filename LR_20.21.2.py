@@ -1,4 +1,10 @@
 import numpy as np 
+#Внесение изменений
+#Внесение изменений
+#Внесение изменений
+#Внесение изменений
+#Внесение изменений
+#Внесение изменений
 def hex_table():
     # Create a 16x16 array of zeros
     table = np.zeros((16, 16), dtype=int)
